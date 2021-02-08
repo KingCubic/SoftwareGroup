@@ -1,9 +1,0 @@
-<<<<<<< HEAD
-
-=======
-Names:
-Boston Woods
-Andrew Pawloski
-Douglas Tanner
-
->>>>>>> 8091c9c0355a322e0d92a149699db004b991ca4e
